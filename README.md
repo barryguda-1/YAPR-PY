@@ -1,2 +1,2 @@
 # YAPR-PY
-Yet another Proc reader
+Yet another Proc reader in Py
